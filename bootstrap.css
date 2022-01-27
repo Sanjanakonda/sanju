@@ -196,21 +196,7 @@ nav{
 .footer,i{
     margin: 5px;
 }
-@media (max-width: 1020px){
-    #title{
-        text-align: center;
-    }
-    #menu.h1{
-        font-size: 2px;
-        text-align: center;
 
-       
-    }
-    menu.pricing-column{
-        padding-right: 15%;
-
-    }
-}
   
 
 
