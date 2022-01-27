@@ -198,8 +198,8 @@ nav{
 }
 @media only screen and (max-width:500px){
     .firstpic {
-        width: 450px;
-        height: 350px;
+        width: 200px;
+        height: 250px;
 
     }
     .jumbotron {
