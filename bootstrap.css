@@ -196,23 +196,49 @@ nav{
 .footer,i{
     margin: 5px;
 }
+@media only screen and (max-width:500px){
+    .firstpic {
+        width: 450px;
+        height: 350px;
 
-  
+    }
+    .jumbotron {
+        font-size: 5px;
+        text-align: center;
+        padding: 3%;
+    }
+    .jumbotron button{
+        margin: 10px;
+       
+    }
+    #test h1{
+        font-size: 20px;
+    }
+    #test p{
+        font-size: 8px;
+    }
+    #menu h2{
+        font-size: 12px;
+        font-weight: 900;
+    }
+    #menu .card{
+      margin-left: 25px;
+      text-align: center;
+       
+    }
+    #ending{
+        font-size: 1px;
+     
+    }
+    #ending h1{
+        font-size: 20px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    }
+    #footer {
+        font-size: 5px;
+    }
+    #footer p{
+        font-size: 10px;
+    }
+}
+ 
