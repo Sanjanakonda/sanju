@@ -202,8 +202,8 @@ nav{
 }
 @media only screen and (max-width:300px){
     .firstpic {
-        width:40%;
-        height: 35%;
+        width: 20%;
+        height: 25%;
 
     }
     .jumbotron {
